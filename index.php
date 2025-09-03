@@ -22,7 +22,6 @@
                         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12">
                             <div class="map-content">
                                 <div class="map_div">
-                                    <!-- <p>cbjdc</p> -->
                                     <img src="./assets/images/map.png" alt="map-image" data-aos="fade-up">
                                     <p data-aos="fade-up">
                                         Please share your desired location with us so that we can help you with the best possible propertes.
